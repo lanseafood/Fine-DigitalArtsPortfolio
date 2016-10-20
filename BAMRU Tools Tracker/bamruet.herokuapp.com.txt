@@ -1,2 +1,0 @@
-Visit bamruet.herokuapp.com to see the app live!
-You may still access the app with username admin, pw admin12345 temporarily
